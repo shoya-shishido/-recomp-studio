@@ -1,0 +1,27 @@
+{
+  "name": "RECOMP STUDIO — Gym Flow",
+  "short_name": "RECOMP",
+  "description": "男性・女性のプロフィール別に前回セットの重量・回数をその場で確認できるトレーニングアプリ。",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0f13",
+  "theme_color": "#0b0f13",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# 個人トレーニング記録と環境ファイルをGitHubに公開しないための保険
+*.json
+!package.json
+!tsconfig.json
+!manifest.webmanifest
+*.csv
+*.bak
+*.log
+*.sqlite
+*.db
+.env
+.env.*
+.DS_Store
+node_modules/
